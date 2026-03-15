@@ -1,0 +1,11 @@
+{
+    "name": "Gezim Ciriku",
+    "age": 27,
+    "city": "Prishtine",
+    "skills": [
+        "Python",
+        "Math",
+        "Teaching",
+        "C#"
+    ]
+}
